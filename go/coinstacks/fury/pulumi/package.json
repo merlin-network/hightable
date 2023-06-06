@@ -1,6 +1,6 @@
 {
   "name": "@shapeshiftoss/fury-pulumi",
-  "version": "9.4.1",
+  "version": "10.0.0",
   "license": "MIT",
   "private": true,
   "scripts": {
